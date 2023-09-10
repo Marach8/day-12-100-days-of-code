@@ -4,7 +4,7 @@ print("How many can you answer correctly?")
 print()
 ans1 = input("What language are we writing in? ")
 if ans1 == "python":
-  print("Correct")
+  print("Correct!")
 else:
   print("Nope🙈")
 print()
